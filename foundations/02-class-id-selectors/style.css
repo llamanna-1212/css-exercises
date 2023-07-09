@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsl(0, 100%, 80%);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#segundo {
+    color: hsl(236, 100%, 50%);
+    font-size: 36px;
+}
+
+#cuarto {
+    background-color: hsl(153, 100%, 50%);
+    font-size: 24px;
+    font-weight: bold;
+}
